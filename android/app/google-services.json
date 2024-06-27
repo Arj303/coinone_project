@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483959315486",
+    "project_id": "picsapp-7d63b",
+    "storage_bucket": "picsapp-7d63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483959315486:android:21754b474ec0740cc8e20f",
+        "android_client_info": {
+          "package_name": "com.example.machientest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxAEa1fnIauaLmUDA-OEoXArR8jvtW_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
